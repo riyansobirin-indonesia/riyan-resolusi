@@ -5,5 +5,9 @@ RENCANA KONTEN RIYAN
   * ES6
 - SASS  
 - Framework Javascript
+   ^ Vue
+   ^ React
 - Interview
 - Vlogs
+- PHP Frameworks
+  ^ Laravel
