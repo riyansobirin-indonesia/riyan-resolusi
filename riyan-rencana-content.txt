@@ -3,7 +3,11 @@ RENCANA KONTEN RIYAN
 - Python
 - Javascript
   * ES6
-- SASS  
+ 
 - Framework Javascript
+   ^ Angular
+   ^ React
 - Interview
 - Vlogs
+- PHP Frameworks
+  ^ Laravel
