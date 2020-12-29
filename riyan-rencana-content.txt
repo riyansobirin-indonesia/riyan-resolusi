@@ -1,0 +1,8 @@
+RENCANA KONTEN RIYAN
+
+- Python
+- Javascript
+  * ES6
+- Framework Javascript
+- Interview
+- Vlogs
