@@ -3,7 +3,6 @@ RENCANA KONTEN RIYAN
 - Python
 - Javascript
   * ES6
-- SASS  
 - Framework Javascript
    ^ Vue
    ^ React
@@ -11,4 +10,4 @@ RENCANA KONTEN RIYAN
 - Vlogs
 - PHP Frameworks
   ^ Laravel
-  ^ CI
+
